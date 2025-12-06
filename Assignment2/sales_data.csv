@@ -1,0 +1,121 @@
+orderId,productName,category,price,quantity,orderDate,customerRegion
+ORD001,Wireless Bluetooth Headphones,Electronics,99.99,2,2023-01-15,North America
+ORD002,Running Shoes,Apparel,129.99,1,2023-01-16,Europe
+ORD003,Coffee Maker,Home & Kitchen,79.99,1,2023-01-17,Asia
+ORD004,Gaming Mouse,Electronics,49.99,3,2023-01-18,North America
+ORD005,Winter Jacket,Apparel,189.99,1,2023-01-19,Europe
+ORD006,Yoga Mat,Sports,39.99,2,2023-01-20,Asia
+ORD007,Smartphone Case,Electronics,19.99,5,2023-01-21,North America
+ORD008,Kitchen Knife Set,Home & Kitchen,149.99,1,2023-01-22,Europe
+ORD009,Tennis Racket,Sports,199.99,1,2023-01-23,Asia
+ORD010,Leather Wallet,Accessories,69.99,2,2023-01-24,North America
+ORD011,Laptop Stand,Electronics,59.99,1,2023-02-01,Europe
+ORD012,Skincare Set,Beauty,89.99,3,2023-02-02,Asia
+ORD013,Hiking Boots,Apparel,179.99,1,2023-02-03,North America
+ORD014,Blender,Home & Kitchen,119.99,1,2023-02-04,Europe
+ORD015,Basketball,Sports,29.99,4,2023-02-05,Asia
+ORD016,Tablet,Electronics,299.99,1,2023-02-06,North America
+ORD017,Dress Shirt,Apparel,59.99,2,2023-02-07,Europe
+ORD018,Air Fryer,Home & Kitchen,89.99,1,2023-02-08,Asia
+ORD019,Sunglasses,Accessories,129.99,1,2023-02-09,North America
+ORD020,Moisturizer,Beauty,49.99,2,2023-02-10,Europe
+ORD021,Wireless Speaker,Electronics,79.99,2,2023-03-01,Asia
+ORD022,Jeans,Apparel,89.99,1,2023-03-02,North America
+ORD023,Vacuum Cleaner,Home & Kitchen,199.99,1,2023-03-03,Europe
+ORD024,Golf Clubs,Sports,399.99,1,2023-03-04,Asia
+ORD025,Watch,Accessories,249.99,1,2023-03-05,North America
+ORD026,Webcam,Electronics,69.99,2,2023-03-06,Europe
+ORD027,Hoodie,Apparel,49.99,3,2023-03-07,Asia
+ORD028,Toaster,Home & Kitchen,39.99,1,2023-03-08,North America
+ORD029,Fitness Tracker,Electronics,149.99,1,2023-03-09,Europe
+ORD030,Lipstick,Beauty,24.99,4,2023-03-10,Asia
+ORD031,Gaming Keyboard,Electronics,109.99,1,2023-04-01,North America
+ORD032,Sneakers,Apparel,119.99,2,2023-04-02,Europe
+ORD033,Microwave,Home & Kitchen,159.99,1,2023-04-03,Asia
+ORD034,Dumbbells,Sports,79.99,2,2023-04-04,North America
+ORD035,Handbag,Accessories,199.99,1,2023-04-05,Europe
+ORD036,Phone Charger,Electronics,29.99,3,2023-04-06,Asia
+ORD037,T-Shirt,Apparel,19.99,5,2023-04-07,North America
+ORD038,Rice Cooker,Home & Kitchen,69.99,1,2023-04-08,Europe
+ORD039,Swimming Goggles,Sports,19.99,2,2023-04-09,Asia
+ORD040,Perfume,Beauty,79.99,1,2023-04-10,North America
+ORD041,Monitor,Electronics,249.99,1,2023-05-01,Europe
+ORD042,Polo Shirt,Apparel,39.99,2,2023-05-02,Asia
+ORD043,Dishwasher,Home & Kitchen,449.99,1,2023-05-03,North America
+ORD044,Bicycle,Sports,299.99,1,2023-05-04,Europe
+ORD045,Belt,Accessories,39.99,2,2023-05-05,Asia
+ORD046,Earbuds,Electronics,59.99,2,2023-05-06,North America
+ORD047,Sweater,Apparel,69.99,1,2023-05-07,Europe
+ORD048,Food Processor,Home & Kitchen,129.99,1,2023-05-08,Asia
+ORD049,Soccer Ball,Sports,24.99,3,2023-05-09,North America
+ORD050,Foundation,Beauty,39.99,2,2023-05-10,Europe
+ORD051,Graphics Card,Electronics,699.99,1,2023-06-01,Asia
+ORD052,Sandals,Apparel,49.99,2,2023-06-02,North America
+ORD053,Washing Machine,Home & Kitchen,599.99,1,2023-06-03,Europe
+ORD054,Treadmill,Sports,899.99,1,2023-06-04,Asia
+ORD055,Backpack,Accessories,89.99,1,2023-06-05,North America
+ORD056,USB Cable,Electronics,14.99,4,2023-06-06,Europe
+ORD057,Shorts,Apparel,29.99,3,2023-06-07,Asia
+ORD058,Refrigerator,Home & Kitchen,799.99,1,2023-06-08,North America
+ORD059,Yoga Block,Sports,12.99,2,2023-06-09,Europe
+ORD060,Shampoo,Beauty,19.99,3,2023-06-10,Asia
+ORD061,Printer,Electronics,179.99,1,2023-07-01,North America
+ORD062,Swimsuit,Apparel,79.99,1,2023-07-02,Europe
+ORD063,Oven,Home & Kitchen,399.99,1,2023-07-03,Asia
+ORD064,Ping Pong Paddle,Sports,34.99,2,2023-07-04,North America
+ORD065,Scarf,Accessories,29.99,2,2023-07-05,Europe
+ORD066,Hard Drive,Electronics,89.99,1,2023-07-06,Asia
+ORD067,Pajamas,Apparel,39.99,2,2023-07-07,North America
+ORD068,Stand Mixer,Home & Kitchen,199.99,1,2023-07-08,Europe
+ORD069,Resistance Bands,Sports,19.99,3,2023-07-09,Asia
+ORD070,Mascara,Beauty,29.99,2,2023-07-10,North America
+ORD071,Router,Electronics,119.99,1,2023-08-01,Europe
+ORD072,Flip Flops,Apparel,19.99,4,2023-08-02,Asia
+ORD073,Ice Maker,Home & Kitchen,149.99,1,2023-08-03,North America
+ORD074,Skateboard,Sports,79.99,1,2023-08-04,Europe
+ORD075,Jewelry Box,Accessories,59.99,1,2023-08-05,Asia
+ORD076,Power Bank,Electronics,39.99,2,2023-08-06,North America
+ORD077,Tank Top,Apparel,14.99,4,2023-08-07,Europe
+ORD078,Slow Cooker,Home & Kitchen,59.99,1,2023-08-08,Asia
+ORD079,Exercise Bike,Sports,399.99,1,2023-08-09,North America
+ORD080,Nail Polish,Beauty,12.99,5,2023-08-10,Europe
+ORD081,Camera,Electronics,499.99,1,2023-09-01,Asia
+ORD082,Cardigan,Apparel,89.99,1,2023-09-02,North America
+ORD083,Juicer,Home & Kitchen,79.99,1,2023-09-03,Europe
+ORD084,Badminton Set,Sports,49.99,1,2023-09-04,Asia
+ORD085,Keychain,Accessories,9.99,3,2023-09-05,North America
+ORD086,Flash Drive,Electronics,19.99,2,2023-09-06,Europe
+ORD087,Leggings,Apparel,34.99,2,2023-09-07,Asia
+ORD088,Espresso Machine,Home & Kitchen,299.99,1,2023-09-08,North America
+ORD089,Foam Roller,Sports,29.99,1,2023-09-09,Europe
+ORD090,Concealer,Beauty,19.99,3,2023-09-10,Asia
+ORD091,Smart TV,Electronics,799.99,1,2023-10-01,North America
+ORD092,Blazer,Apparel,149.99,1,2023-10-02,Europe
+ORD093,Pressure Cooker,Home & Kitchen,99.99,1,2023-10-03,Asia
+ORD094,Elliptical Machine,Sports,699.99,1,2023-10-04,North America
+ORD095,Phone Case,Accessories,24.99,2,2023-10-05,Europe
+ORD096,Mouse Pad,Electronics,12.99,3,2023-10-06,Asia
+ORD097,Socks,Apparel,9.99,6,2023-10-07,North America
+ORD098,Electric Kettle,Home & Kitchen,39.99,1,2023-10-08,Europe
+ORD099,Medicine Ball,Sports,39.99,1,2023-10-09,Asia
+ORD100,Hair Dryer,Beauty,69.99,1,2023-10-10,North America
+ORD101,Drone,Electronics,399.99,1,2023-11-01,Europe
+ORD102,Gloves,Apparel,19.99,2,2023-11-02,Asia
+ORD103,Air Purifier,Home & Kitchen,199.99,1,2023-11-03,North America
+ORD104,Punching Bag,Sports,149.99,1,2023-11-04,Europe
+ORD105,Wallet,Accessories,49.99,1,2023-11-05,Asia
+ORD106,Keyboard,Electronics,89.99,1,2023-11-06,North America
+ORD107,Coat,Apparel,199.99,1,2023-11-07,Europe
+ORD108,Humidifier,Home & Kitchen,79.99,1,2023-11-08,Asia
+ORD109,Jump Rope,Sports,14.99,2,2023-11-09,North America
+ORD110,Face Mask,Beauty,34.99,3,2023-11-10,Europe
+ORD111,Projector,Electronics,299.99,1,2023-12-01,Asia
+ORD112,Boots,Apparel,159.99,1,2023-12-02,North America
+ORD113,Dehumidifier,Home & Kitchen,129.99,1,2023-12-03,Europe
+ORD114,Weight Set,Sports,199.99,1,2023-12-04,Asia
+ORD115,Tie,Accessories,29.99,2,2023-12-05,North America
+ORD116,Sound Bar,Electronics,149.99,1,2023-12-06,Europe
+ORD117,Underwear,Apparel,24.99,4,2023-12-07,Asia
+ORD118,Space Heater,Home & Kitchen,69.99,1,2023-12-08,North America
+ORD119,Protein Shaker,Sports,19.99,2,2023-12-09,Europe
+ORD120,Body Lotion,Beauty,24.99,2,2023-12-10,Asia

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.example.producerconsumer.ProducerConsumerRefinedIntegrationTest" time="4.131" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="25"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/kaustubhadhav/Downloads/uptime/Assignment 1/target/test-classes:/Users/kaustubhadhav/Downloads/uptime/Assignment 1/target/classes:/Users/kaustubhadhav/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.2/junit-jupiter-api-5.9.2.jar:/Users/kaustubhadhav/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/kaustubhadhav/.m2/repository/org/junit/platform/junit-platform-commons/1.9.2/junit-platform-commons-1.9.2.jar:/Users/kaustubhadhav/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/kaustubhadhav/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.2/junit-jupiter-engine-5.9.2.jar:/Users/kaustubhadhav/.m2/repository/org/junit/platform/junit-platform-engine/1.9.2/junit-platform-engine-1.9.2.jar:"/>
+    <property name="java.vm.vendor" value="Homebrew"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="java.vm.specification.version" value="25"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="/usr/local/Cellar/openjdk/25.0.1/libexec/openjdk.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/kaustubhadhav/Downloads/uptime/Assignment 1/target/surefire/surefirebooter-20251205192012402_3.jar /Users/kaustubhadhav/Downloads/uptime/Assignment 1/target/surefire 2025-12-05T19-20-12_280-jvmRun1 surefire-20251205192012402_1tmp surefire_0-20251205192012402_2tmp"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/kaustubhadhav/Downloads/uptime/Assignment 1/target/test-classes:/Users/kaustubhadhav/Downloads/uptime/Assignment 1/target/classes:/Users/kaustubhadhav/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.2/junit-jupiter-api-5.9.2.jar:/Users/kaustubhadhav/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/kaustubhadhav/.m2/repository/org/junit/platform/junit-platform-commons/1.9.2/junit-platform-commons-1.9.2.jar:/Users/kaustubhadhav/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/kaustubhadhav/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.2/junit-jupiter-engine-5.9.2.jar:/Users/kaustubhadhav/.m2/repository/org/junit/platform/junit-platform-engine/1.9.2/junit-platform-engine-1.9.2.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/kaustubhadhav"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-10-21"/>
+    <property name="java.home" value="/usr/local/Cellar/openjdk/25.0.1/libexec/openjdk.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/kaustubhadhav/Downloads/uptime/Assignment 1"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="apple.awt.application.name" value="ForkedBooter"/>
+    <property name="surefire.real.class.path" value="/Users/kaustubhadhav/Downloads/uptime/Assignment 1/target/surefire/surefirebooter-20251205192012402_3.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.runtime.version" value="25.0.1"/>
+    <property name="user.name" value="kaustubhadhav"/>
+    <property name="stdout.encoding" value="UTF-8"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="15.6.1"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Homebrew"/>
+    <property name="localRepository" value="/Users/kaustubhadhav/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="java.io.tmpdir" value="/var/folders/w2/4dlrg2hd15lgh4y_8wj117nw0000gn/T/"/>
+    <property name="java.version" value="25.0.1"/>
+    <property name="user.dir" value="/Users/kaustubhadhav/Downloads/uptime/Assignment 1"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/kaustubhadhav/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="UTF-8"/>
+    <property name="java.vendor" value="Homebrew"/>
+    <property name="java.vm.version" value="25.0.1"/>
+    <property name="stdin.encoding" value="UTF-8"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.class.version" value="69.0"/>
+  </properties>
+  <testcase name="testFullFlowNoLoss" classname="com.example.producerconsumer.ProducerConsumerRefinedIntegrationTest" time="4.128">
+    <system-out><![CDATA[Produced: Item{id=0, payload='Load-0'}
+Produced: Item{id=1, payload='Load-1'}
+Produced: Item{id=2, payload='Load-2'}
+Consumed: Item{id=0, payload='Load-0'}
+Consumed: Item{id=1, payload='Load-1'}
+Produced: Item{id=3, payload='Load-3'}
+Consumed: Item{id=2, payload='Load-2'}
+Produced: Item{id=4, payload='Load-4'}
+Produced: Item{id=5, payload='Load-5'}
+Produced: Item{id=6, payload='Load-6'}
+Consumed: Item{id=3, payload='Load-3'}
+Produced: Item{id=7, payload='Load-7'}
+Produced: Item{id=8, payload='Load-8'}
+Produced: Item{id=9, payload='Load-9'}
+Consumed: Item{id=4, payload='Load-4'}
+Produced: Item{id=10, payload='Load-10'}
+Produced: Item{id=11, payload='Load-11'}
+Produced: Item{id=12, payload='Load-12'}
+Consumed: Item{id=5, payload='Load-5'}
+Produced: Item{id=13, payload='Load-13'}
+Produced: Item{id=14, payload='Load-14'}
+Consumed: Item{id=6, payload='Load-6'}
+Consumed: Item{id=7, payload='Load-7'}
+Produced: Item{id=15, payload='Load-15'}
+Consumed: Item{id=8, payload='Load-8'}
+Produced: Item{id=16, payload='Load-16'}
+Produced: Item{id=17, payload='Load-17'}
+Consumed: Item{id=9, payload='Load-9'}
+Produced: Item{id=18, payload='Load-18'}
+Produced: Item{id=19, payload='Load-19'}
+Produced: Item{id=20, payload='Load-20'}
+Consumed: Item{id=10, payload='Load-10'}
+Produced: Item{id=21, payload='Load-21'}
+Consumed: Item{id=11, payload='Load-11'}
+Produced: Item{id=22, payload='Load-22'}
+Consumed: Item{id=12, payload='Load-12'}
+Produced: Item{id=23, payload='Load-23'}
+Consumed: Item{id=13, payload='Load-13'}
+Produced: Item{id=24, payload='Load-24'}
+Consumed: Item{id=14, payload='Load-14'}
+Produced: Item{id=25, payload='Load-25'}
+Consumed: Item{id=15, payload='Load-15'}
+Produced: Item{id=26, payload='Load-26'}
+Consumed: Item{id=16, payload='Load-16'}
+Produced: Item{id=27, payload='Load-27'}
+Consumed: Item{id=17, payload='Load-17'}
+Produced: Item{id=28, payload='Load-28'}
+Consumed: Item{id=18, payload='Load-18'}
+Produced: Item{id=29, payload='Load-29'}
+Consumed: Item{id=19, payload='Load-19'}
+Produced: Item{id=30, payload='Load-30'}
+Consumed: Item{id=20, payload='Load-20'}
+Produced: Item{id=31, payload='Load-31'}
+Consumed: Item{id=21, payload='Load-21'}
+Produced: Item{id=32, payload='Load-32'}
+Consumed: Item{id=22, payload='Load-22'}
+Produced: Item{id=33, payload='Load-33'}
+Consumed: Item{id=23, payload='Load-23'}
+Produced: Item{id=34, payload='Load-34'}
+Consumed: Item{id=24, payload='Load-24'}
+Produced: Item{id=35, payload='Load-35'}
+Consumed: Item{id=25, payload='Load-25'}
+Produced: Item{id=36, payload='Load-36'}
+Consumed: Item{id=26, payload='Load-26'}
+Produced: Item{id=37, payload='Load-37'}
+Consumed: Item{id=27, payload='Load-27'}
+Consumed: Item{id=28, payload='Load-28'}
+Produced: Item{id=38, payload='Load-38'}
+Produced: Item{id=39, payload='Load-39'}
+Consumed: Item{id=29, payload='Load-29'}
+Produced: Item{id=40, payload='Load-40'}
+Consumed: Item{id=30, payload='Load-30'}
+Produced: Item{id=41, payload='Load-41'}
+Consumed: Item{id=31, payload='Load-31'}
+Produced: Item{id=42, payload='Load-42'}
+Consumed: Item{id=32, payload='Load-32'}
+Produced: Item{id=43, payload='Load-43'}
+Consumed: Item{id=33, payload='Load-33'}
+Produced: Item{id=44, payload='Load-44'}
+Consumed: Item{id=34, payload='Load-34'}
+Produced: Item{id=45, payload='Load-45'}
+Consumed: Item{id=35, payload='Load-35'}
+Produced: Item{id=46, payload='Load-46'}
+Consumed: Item{id=36, payload='Load-36'}
+Produced: Item{id=47, payload='Load-47'}
+Consumed: Item{id=37, payload='Load-37'}
+Produced: Item{id=48, payload='Load-48'}
+Consumed: Item{id=38, payload='Load-38'}
+Consumed: Item{id=39, payload='Load-39'}
+Produced: Item{id=49, payload='Load-49'}
+Producer finished.
+Consumed: Item{id=40, payload='Load-40'}
+Consumed: Item{id=41, payload='Load-41'}
+Consumed: Item{id=42, payload='Load-42'}
+Consumed: Item{id=43, payload='Load-43'}
+Consumed: Item{id=44, payload='Load-44'}
+Consumed: Item{id=45, payload='Load-45'}
+Consumed: Item{id=46, payload='Load-46'}
+Consumed: Item{id=47, payload='Load-47'}
+Consumed: Item{id=48, payload='Load-48'}
+Consumed: Item{id=49, payload='Load-49'}
+Consumer received stop signal.
+]]></system-out>
+  </testcase>
+</testsuite>

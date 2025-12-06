@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.example.producerconsumer.ProducerConsumerIntegrationTest" time="5.068" tests="3" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="25"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/kaustubhadhav/Downloads/proj/target/test-classes:/Users/kaustubhadhav/Downloads/proj/target/classes:/Users/kaustubhadhav/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.2/junit-jupiter-api-5.9.2.jar:/Users/kaustubhadhav/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/kaustubhadhav/.m2/repository/org/junit/platform/junit-platform-commons/1.9.2/junit-platform-commons-1.9.2.jar:/Users/kaustubhadhav/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/kaustubhadhav/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.2/junit-jupiter-engine-5.9.2.jar:/Users/kaustubhadhav/.m2/repository/org/junit/platform/junit-platform-engine/1.9.2/junit-platform-engine-1.9.2.jar:"/>
+    <property name="java.vm.vendor" value="Homebrew"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="java.vm.specification.version" value="25"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="/usr/local/Cellar/openjdk/25.0.1/libexec/openjdk.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/kaustubhadhav/Downloads/proj/target/surefire/surefirebooter-20251205175000742_3.jar /Users/kaustubhadhav/Downloads/proj/target/surefire 2025-12-05T17-50-00_636-jvmRun1 surefire-20251205175000742_1tmp surefire_0-20251205175000742_2tmp"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/kaustubhadhav/Downloads/proj/target/test-classes:/Users/kaustubhadhav/Downloads/proj/target/classes:/Users/kaustubhadhav/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.2/junit-jupiter-api-5.9.2.jar:/Users/kaustubhadhav/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/kaustubhadhav/.m2/repository/org/junit/platform/junit-platform-commons/1.9.2/junit-platform-commons-1.9.2.jar:/Users/kaustubhadhav/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/kaustubhadhav/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.2/junit-jupiter-engine-5.9.2.jar:/Users/kaustubhadhav/.m2/repository/org/junit/platform/junit-platform-engine/1.9.2/junit-platform-engine-1.9.2.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/kaustubhadhav"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-10-21"/>
+    <property name="java.home" value="/usr/local/Cellar/openjdk/25.0.1/libexec/openjdk.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/kaustubhadhav/Downloads/proj"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="apple.awt.application.name" value="ForkedBooter"/>
+    <property name="surefire.real.class.path" value="/Users/kaustubhadhav/Downloads/proj/target/surefire/surefirebooter-20251205175000742_3.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.runtime.version" value="25.0.1"/>
+    <property name="user.name" value="kaustubhadhav"/>
+    <property name="stdout.encoding" value="UTF-8"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="15.6.1"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Homebrew"/>
+    <property name="localRepository" value="/Users/kaustubhadhav/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/Homebrew/homebrew-core/issues"/>
+    <property name="java.io.tmpdir" value="/var/folders/w2/4dlrg2hd15lgh4y_8wj117nw0000gn/T/"/>
+    <property name="java.version" value="25.0.1"/>
+    <property name="user.dir" value="/Users/kaustubhadhav/Downloads/proj"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/kaustubhadhav/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="UTF-8"/>
+    <property name="java.vendor" value="Homebrew"/>
+    <property name="java.vm.version" value="25.0.1"/>
+    <property name="stdin.encoding" value="UTF-8"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.class.version" value="69.0"/>
+  </properties>
+  <testcase name="testGracefulShutdown" classname="com.example.producerconsumer.ProducerConsumerIntegrationTest" time="0.436">
+    <system-out><![CDATA[Produced: Item{id=1, payload='Data-1'}
+Consumed: Item{id=1, payload='Data-1'}
+Produced: Item{id=2, payload='Data-2'}
+Produced: Item{id=3, payload='Data-3'}
+Produced: Item{id=4, payload='Data-4'}
+Consumed: Item{id=2, payload='Data-2'}
+Produced: Item{id=5, payload='Data-5'}
+Producer finished.
+Consumed: Item{id=3, payload='Data-3'}
+Consumed: Item{id=4, payload='Data-4'}
+Consumed: Item{id=5, payload='Data-5'}
+Consumer received stop signal.
+]]></system-out>
+  </testcase>
+  <testcase name="testConsumerStartsFirst" classname="com.example.producerconsumer.ProducerConsumerIntegrationTest" time="0.59">
+    <system-out><![CDATA[Produced: Item{id=1, payload='Data-1'}
+Produced: Item{id=2, payload='Data-2'}
+Consumed: Item{id=1, payload='Data-1'}
+Consumed: Item{id=2, payload='Data-2'}
+Produced: Item{id=3, payload='Data-3'}
+Consumed: Item{id=3, payload='Data-3'}
+Produced: Item{id=4, payload='Data-4'}
+Produced: Item{id=5, payload='Data-5'}
+Producer finished.
+Consumed: Item{id=4, payload='Data-4'}
+Consumed: Item{id=5, payload='Data-5'}
+Consumer received stop signal.
+]]></system-out>
+  </testcase>
+  <testcase name="testDeadlockSafety" classname="com.example.producerconsumer.ProducerConsumerIntegrationTest" time="4.037">
+    <system-out><![CDATA[Produced: Item{id=1, payload='Data-1'}
+Produced: Item{id=2, payload='Data-2'}
+Produced: Item{id=3, payload='Data-3'}
+Consumed: Item{id=1, payload='Data-1'}
+Produced: Item{id=4, payload='Data-4'}
+Consumed: Item{id=2, payload='Data-2'}
+Produced: Item{id=5, payload='Data-5'}
+Consumed: Item{id=3, payload='Data-3'}
+Produced: Item{id=6, payload='Data-6'}
+Consumed: Item{id=4, payload='Data-4'}
+Produced: Item{id=7, payload='Data-7'}
+Consumed: Item{id=5, payload='Data-5'}
+Consumed: Item{id=6, payload='Data-6'}
+Produced: Item{id=8, payload='Data-8'}
+Produced: Item{id=9, payload='Data-9'}
+Consumed: Item{id=7, payload='Data-7'}
+Produced: Item{id=10, payload='Data-10'}
+Consumed: Item{id=8, payload='Data-8'}
+Produced: Item{id=11, payload='Data-11'}
+Consumed: Item{id=9, payload='Data-9'}
+Produced: Item{id=12, payload='Data-12'}
+Consumed: Item{id=10, payload='Data-10'}
+Produced: Item{id=13, payload='Data-13'}
+Consumed: Item{id=11, payload='Data-11'}
+Consumed: Item{id=12, payload='Data-12'}
+Produced: Item{id=14, payload='Data-14'}
+Consumed: Item{id=13, payload='Data-13'}
+Produced: Item{id=15, payload='Data-15'}
+Produced: Item{id=16, payload='Data-16'}
+Consumed: Item{id=14, payload='Data-14'}
+Produced: Item{id=17, payload='Data-17'}
+Consumed: Item{id=15, payload='Data-15'}
+Produced: Item{id=18, payload='Data-18'}
+Consumed: Item{id=16, payload='Data-16'}
+Produced: Item{id=19, payload='Data-19'}
+Consumed: Item{id=17, payload='Data-17'}
+Produced: Item{id=20, payload='Data-20'}
+Consumed: Item{id=18, payload='Data-18'}
+Produced: Item{id=21, payload='Data-21'}
+Consumed: Item{id=19, payload='Data-19'}
+Produced: Item{id=22, payload='Data-22'}
+Consumed: Item{id=20, payload='Data-20'}
+Produced: Item{id=23, payload='Data-23'}
+Consumed: Item{id=21, payload='Data-21'}
+Consumed: Item{id=22, payload='Data-22'}
+Produced: Item{id=24, payload='Data-24'}
+Produced: Item{id=25, payload='Data-25'}
+Consumed: Item{id=23, payload='Data-23'}
+Produced: Item{id=26, payload='Data-26'}
+Consumed: Item{id=24, payload='Data-24'}
+Produced: Item{id=27, payload='Data-27'}
+Consumed: Item{id=25, payload='Data-25'}
+Produced: Item{id=28, payload='Data-28'}
+Consumed: Item{id=26, payload='Data-26'}
+Produced: Item{id=29, payload='Data-29'}
+Consumed: Item{id=27, payload='Data-27'}
+Produced: Item{id=30, payload='Data-30'}
+Consumed: Item{id=28, payload='Data-28'}
+Produced: Item{id=31, payload='Data-31'}
+Consumed: Item{id=29, payload='Data-29'}
+Produced: Item{id=32, payload='Data-32'}
+Consumed: Item{id=30, payload='Data-30'}
+Produced: Item{id=33, payload='Data-33'}
+Consumed: Item{id=31, payload='Data-31'}
+Produced: Item{id=34, payload='Data-34'}
+Consumed: Item{id=32, payload='Data-32'}
+Produced: Item{id=35, payload='Data-35'}
+Consumed: Item{id=33, payload='Data-33'}
+Produced: Item{id=36, payload='Data-36'}
+Consumed: Item{id=34, payload='Data-34'}
+Produced: Item{id=37, payload='Data-37'}
+Consumed: Item{id=35, payload='Data-35'}
+Produced: Item{id=38, payload='Data-38'}
+Consumed: Item{id=36, payload='Data-36'}
+Consumed: Item{id=37, payload='Data-37'}
+Produced: Item{id=39, payload='Data-39'}
+Consumed: Item{id=38, payload='Data-38'}
+Consumed: Item{id=39, payload='Data-39'}
+Produced: Item{id=40, payload='Data-40'}
+Produced: Item{id=41, payload='Data-41'}
+Produced: Item{id=42, payload='Data-42'}
+Consumed: Item{id=40, payload='Data-40'}
+Produced: Item{id=43, payload='Data-43'}
+Consumed: Item{id=41, payload='Data-41'}
+Produced: Item{id=44, payload='Data-44'}
+Consumed: Item{id=42, payload='Data-42'}
+Produced: Item{id=45, payload='Data-45'}
+Consumed: Item{id=43, payload='Data-43'}
+Produced: Item{id=46, payload='Data-46'}
+Consumed: Item{id=44, payload='Data-44'}
+Produced: Item{id=47, payload='Data-47'}
+Consumed: Item{id=45, payload='Data-45'}
+Produced: Item{id=48, payload='Data-48'}
+Consumed: Item{id=46, payload='Data-46'}
+Produced: Item{id=49, payload='Data-49'}
+Consumed: Item{id=47, payload='Data-47'}
+Consumed: Item{id=48, payload='Data-48'}
+Consumed: Item{id=49, payload='Data-49'}
+Produced: Item{id=50, payload='Data-50'}
+Producer finished.
+Consumed: Item{id=50, payload='Data-50'}
+Consumer received stop signal.
+]]></system-out>
+  </testcase>
+</testsuite>

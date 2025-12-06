@@ -1,0 +1,11 @@
+/Users/kaustubhadhav/Downloads/uptime/Assignment 1/src/main/java/com/example/producerconsumer/Main.java
+/Users/kaustubhadhav/Downloads/uptime/Assignment 1/src/main/java/com/example/producerconsumer/model/Item.java
+/Users/kaustubhadhav/Downloads/uptime/Assignment 1/src/main/java/com/example/producerconsumer/repository/BufferRepository.java
+/Users/kaustubhadhav/Downloads/uptime/Assignment 1/src/main/java/com/example/producerconsumer/repository/DestinationRepository.java
+/Users/kaustubhadhav/Downloads/uptime/Assignment 1/src/main/java/com/example/producerconsumer/repository/InMemoryDestinationRepository.java
+/Users/kaustubhadhav/Downloads/uptime/Assignment 1/src/main/java/com/example/producerconsumer/repository/InMemorySourceRepository.java
+/Users/kaustubhadhav/Downloads/uptime/Assignment 1/src/main/java/com/example/producerconsumer/repository/ManualWaitNotifyBufferRepository.java
+/Users/kaustubhadhav/Downloads/uptime/Assignment 1/src/main/java/com/example/producerconsumer/repository/SharedBufferRepository.java
+/Users/kaustubhadhav/Downloads/uptime/Assignment 1/src/main/java/com/example/producerconsumer/repository/SourceRepository.java
+/Users/kaustubhadhav/Downloads/uptime/Assignment 1/src/main/java/com/example/producerconsumer/service/ConsumerService.java
+/Users/kaustubhadhav/Downloads/uptime/Assignment 1/src/main/java/com/example/producerconsumer/service/ProducerService.java

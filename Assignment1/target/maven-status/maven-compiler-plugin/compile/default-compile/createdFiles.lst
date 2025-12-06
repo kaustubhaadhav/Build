@@ -1,0 +1,6 @@
+com/example/producerconsumer/service/ProducerService.class
+com/example/producerconsumer/repository/SharedBufferRepository.class
+com/example/producerconsumer/service/ConsumerService.class
+com/example/producerconsumer/model/Item.class
+com/example/producerconsumer/Main.class
+com/example/producerconsumer/repository/BufferRepository.class
